@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+SmartFace: A Multi-Threaded Face Recognition Framework for IoT EdgeTPU Devices
 
-You can use the [editor on GitHub](https://github.com/smart-face/smartface/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smart-face/smartface/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Most deep learning-based face recognition systems rely on GPU machines and cloud services that result in increased latency, cost, and privacy concerns. Simultaneously, existing face recognition products provide support in constrained environments where face frontalization is necessary, and are limited to conventional face recognition algorithms. To train face recognition methods, a large-scale dataset is required for the training of the backbone network. Although such datasets have been harvested using the internet, they contain many incorrect class labels that reduce the discriminative ability of the backbone model by projecting different identities into the same latent space. To address this issue, we propose a face quality assessment and efficient relabelling mechanism during the training phase to alleviate the noisy labels. Additionally, in this paper, from a research model to a real-world application, we present a multi-threaded framework that utilizes EdgeTPU devices to offer motion detection, face detection, face alignment, face recognition, live camera streaming, and management software in the state-machine environment. Our framework efficiently addresses the most time-sensitive issue associated with face recognition over cloud services and performs on-device face recognition in 100.0 ms. The management service handles secured JSON data requests further enabling control over a mobile application for end-user. This entire framework runs on a Quad-core Cortex-A53 processor with 1GB RAM allowing wild face unconstrained face recognition on IoT devices. Results on the collected dataset and IJB-B, IJB-C, LFW, AgeDB30, CALFW, CFPFP, and CPLFW public benchmarks demonstrate that our approach achieves state-of-the-art performance. 
