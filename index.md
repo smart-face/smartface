@@ -16,11 +16,8 @@ Abhijeet Boragule Moongu Jeon (Under Review at IEEE IOT)
 
 Please watch the video for the live demo.
 <div  style="inline-size: max-content;">
-Demo1!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s9dAEyYVOEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Demo2!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tVh5ObC0ygE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
