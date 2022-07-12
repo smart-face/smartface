@@ -13,12 +13,9 @@ Abhijeet Boragule Moongu Jeon (Under Review at IEEE IOT)
 
 
 
-![MLV-v2-door-lock_2022-Jun-22_09-46-22AM-000_CustomizedView14737908170](https://user-images.githubusercontent.com/84734809/178389222-558bc2f7-7360-4aff-938d-551bc3eb4e6d.png)
-
-
 
 Please watch the video for the live demo.
-
+<div>
 Demo1!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s9dAEyYVOEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,3 +23,4 @@ Demo1!
 Demo2!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tVh5ObC0ygE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
