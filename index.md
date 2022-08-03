@@ -12,6 +12,10 @@ Abhijeet Boragule Moongu Jeon (Under Review at IEEE IOT)
 ![Image](https://user-images.githubusercontent.com/84734809/178389161-fcabe32f-274d-4c71-b213-e5101e3871dc.png)
 
 
+![Screenshot from 2022-08-03 19-49-58](https://user-images.githubusercontent.com/84734809/182591015-bec5e010-a59d-44db-b6cd-753a06598c5e.png)
+
+
+
 
 
 Please watch the video for the live demo.
