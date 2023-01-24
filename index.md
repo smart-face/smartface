@@ -27,5 +27,5 @@ Please watch the video for the live demo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tVh5ObC0ygE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
-  <iframe src="https://sites.google.com/view/abhijeetborgule" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
-
+  
+<iframe width="560" height="315" src="https://sites.google.com/view/abhijeetborgule" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
