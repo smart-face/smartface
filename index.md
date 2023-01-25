@@ -1,7 +1,7 @@
 
 
 <h1>SmartFace: A Multi-Threaded Face Recognition Framework for IoT EdgeTPU Devices</h1>
-<a href="https://sites.google.com/view/abhijeetborgule">Abhijeet Boragule</a> and Moongu Jeon
+<a href="https://sites.google.com/view/abhijeetborgule">Abhijeet Boragule</a> and <a href="https://sites.google.com/view/mlv/people/professor?authuser=0"> Moongu Jeon</a>
 
 This work is under Under Review @ IEEE IoT Journal
 
